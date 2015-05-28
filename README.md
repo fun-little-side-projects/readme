@@ -5,9 +5,9 @@
 - Lots of people tell me about how they want to work on side projects together. This is a place for all those people to get together and do that.
 - After having a few of these conversations, I realized that these people all wanted the same 3 things:
 
-    1. To collaborate.
-    2. To practice/learn/play around with new technologies.
-    3. To have fun.
+ 1. To collaborate.
+ 2. To practice/learn/play around with new technologies.
+ 3. To have fun.
 
 - Hopefully this organization and it's repos will be a place for that to happen.
 
