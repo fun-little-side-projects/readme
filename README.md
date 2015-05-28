@@ -14,17 +14,17 @@
 ## Getting started
 > If you've never used git/github before: [Try Git](https://try.github.io/levels/1/challenges/1)
 
-- Checkout repositories, if you find something you like then start hacking!
+- Checkout the repositories, if you find something you like then start hacking!
 - If you don't, start something!
 
 ## Discussion
 > If you've never used Slack before: [Slack is](https://slack.com/is)
 
-- Head over to the Nashdev Slack channel [#funlittlesideprojects](https://nashdev.slack.com/messages/funlittlesideprojects/).
+- Head over to the [Nashdev](http://nashjs.org/blog/post/nashdev-slack) Slack channel [#funlittlesideprojects](https://nashdev.slack.com/messages/funlittlesideprojects/).
 
 ## Questions?
 
-- Ask in #funlittlesideprojects
+- Ask in [#funlittlesideprojects](https://nashdev.slack.com/messages/funlittlesideprojects/)
 
 - Report a new issue. (If you've never done that before: [Mastering Issues](https://guides.github.com/features/issues/)
 
