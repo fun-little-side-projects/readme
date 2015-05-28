@@ -28,6 +28,5 @@
 
 - Report a new issue. (If you've never done that before: [Mastering Issues](https://guides.github.com/features/issues/)
 
-- DM me on Slack @kplunkett [email](kris.j.plunkett@icloud.com).
-
+- DM me on Slack @kplunkett (within NashDev team) or [email](kris.j.plunkett@icloud.com).
 
