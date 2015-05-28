@@ -2,14 +2,14 @@
 
 ## Overview
 
-- Lots of people tell me about how they want to work on side projects together. This is a place for all those people to get together and do that.
-- After having a few of these conversations, I realized that these people all wanted the same 3 things:
+- I've had a number of conversations where people tell me about how they want to work on side projects together.
+- I realized that these people all want the same 3 things:
 
  1. To collaborate.
- 2. To practice/learn/play around with new technologies.
+ 2. To learn/play wth new technologies.
  3. To have fun.
 
-- Hopefully this organization and it's repos will be a place for that to happen.
+- I created this organization in an effort to help make that happen :)
 
 ## Getting started
 > If you've never used git/github before: [Try Git](https://try.github.io/levels/1/challenges/1)
@@ -28,5 +28,6 @@
 
 - Report a new issue. (If you've never done that before: [Mastering Issues](https://guides.github.com/features/issues/)
 
-- Shoot me an [email](kris.j.plunkett@icloud.com).
+- DM me on Slack @kplunkett [email](kris.j.plunkett@icloud.com).
+
 
